@@ -7,18 +7,20 @@ Test repo to play with git
 
 me;)
 
-_TO-DO_
+
+## _TO-DO_
 
 - a lot
 
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 # _Scrap_
 
